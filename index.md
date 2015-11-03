@@ -7,7 +7,7 @@ tagline: GCC for Propeller microcontrollers
 excerpt: The Propeller GCC Compiler tool-chain is an open-source, multi-OS, and multi-lingual compiler that targets the Parallax Propeller's unique multicore architecture.
 
 type: project
-apptype: languages
+apptype: compilers
 
 image: doc/images/propgcc.png
 
